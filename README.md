@@ -1,0 +1,1 @@
+In this repositrory, most of the code used in the work arXiv 2509.20772 and the data generated from the numerical work will be placed in here, including the static structure factor of the classical variational ground for all parameter setting and the $SU(3)$ calculation results.
